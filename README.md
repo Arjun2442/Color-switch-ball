@@ -55,9 +55,9 @@ https://github.com/technogirdher/color-switch-game
 ---
 
 ## 👤 Author
-**Tushar Girdher**  
-Computer Science & Engineering (AI)  
-NSUT  
+**Arjun Goel**
+IIIT DELHI
+(CSAM)
 
 ---
 
